@@ -1,0 +1,11 @@
+Admin
+Ataulfo2022**
+
+Ataulfo2
+Ataulfo2022**
+
+https://hub.docker.com/_/mediawiki?tab=description
+
+database
+wikiuser
+example
